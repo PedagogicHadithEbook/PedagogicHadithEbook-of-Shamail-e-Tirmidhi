@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PedagogicHadithEbook-of-Shamail-e-Tirmidhi/static/css/main.da0c9bd3.css",
+    "main.js": "/PedagogicHadithEbook-of-Shamail-e-Tirmidhi/static/js/main.2ed3fd4e.js",
+    "static/js/787.b8e5a05e.chunk.js": "/PedagogicHadithEbook-of-Shamail-e-Tirmidhi/static/js/787.b8e5a05e.chunk.js",
+    "static/media/Home2.PNG": "/PedagogicHadithEbook-of-Shamail-e-Tirmidhi/static/media/Home2.1aca7d864bfa37a3bba4.PNG",
+    "index.html": "/PedagogicHadithEbook-of-Shamail-e-Tirmidhi/index.html",
+    "main.da0c9bd3.css.map": "/PedagogicHadithEbook-of-Shamail-e-Tirmidhi/static/css/main.da0c9bd3.css.map",
+    "main.2ed3fd4e.js.map": "/PedagogicHadithEbook-of-Shamail-e-Tirmidhi/static/js/main.2ed3fd4e.js.map",
+    "787.b8e5a05e.chunk.js.map": "/PedagogicHadithEbook-of-Shamail-e-Tirmidhi/static/js/787.b8e5a05e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da0c9bd3.css",
+    "static/js/main.2ed3fd4e.js"
+  ]
+}
