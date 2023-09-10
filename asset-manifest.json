@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/PedagogicHadithEbook-of-Shamail-e-Tirmidhi/static/css/main.da0c9bd3.css",
-    "main.js": "/PedagogicHadithEbook-of-Shamail-e-Tirmidhi/static/js/main.4ccf2356.js",
-    "static/js/787.b8e5a05e.chunk.js": "/PedagogicHadithEbook-of-Shamail-e-Tirmidhi/static/js/787.b8e5a05e.chunk.js",
+    "main.css": "/PedagogicHadithEbook-of-Shamail-e-Tirmidhi/static/css/main.b13bfd9a.css",
+    "main.js": "/PedagogicHadithEbook-of-Shamail-e-Tirmidhi/static/js/main.c49d8516.js",
+    "static/js/787.d05b7dc3.chunk.js": "/PedagogicHadithEbook-of-Shamail-e-Tirmidhi/static/js/787.d05b7dc3.chunk.js",
     "static/media/Home2.PNG": "/PedagogicHadithEbook-of-Shamail-e-Tirmidhi/static/media/Home2.1aca7d864bfa37a3bba4.PNG",
     "index.html": "/PedagogicHadithEbook-of-Shamail-e-Tirmidhi/index.html",
-    "main.da0c9bd3.css.map": "/PedagogicHadithEbook-of-Shamail-e-Tirmidhi/static/css/main.da0c9bd3.css.map",
-    "main.4ccf2356.js.map": "/PedagogicHadithEbook-of-Shamail-e-Tirmidhi/static/js/main.4ccf2356.js.map",
-    "787.b8e5a05e.chunk.js.map": "/PedagogicHadithEbook-of-Shamail-e-Tirmidhi/static/js/787.b8e5a05e.chunk.js.map"
+    "main.b13bfd9a.css.map": "/PedagogicHadithEbook-of-Shamail-e-Tirmidhi/static/css/main.b13bfd9a.css.map",
+    "main.c49d8516.js.map": "/PedagogicHadithEbook-of-Shamail-e-Tirmidhi/static/js/main.c49d8516.js.map",
+    "787.d05b7dc3.chunk.js.map": "/PedagogicHadithEbook-of-Shamail-e-Tirmidhi/static/js/787.d05b7dc3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da0c9bd3.css",
-    "static/js/main.4ccf2356.js"
+    "static/css/main.b13bfd9a.css",
+    "static/js/main.c49d8516.js"
   ]
 }
